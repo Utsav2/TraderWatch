@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "ca0a8c62-b790-11e3-9f3b-425861b86ab6",
+    "appKeys": {},
+    "longName": "newworkingtuples",
+    "versionCode": 5,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "newworkingtuples",
+    "companyName": "diddi2@illinois.edu",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
